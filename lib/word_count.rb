@@ -7,6 +7,6 @@ class String
         word_count += 1
       end
     }
-    "Word Input: #{self} String_input: #{string_input} Output: #{word_count}"
+    "Word Input: \"#{self}\" String Input: \"#{string_input}\" Output: \"#{word_count}\""
   end
 end
