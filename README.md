@@ -17,7 +17,7 @@ This webApp will ask the user for a word and a sentence. The App will display th
 There are no known bugs as of now. However, if you find any bugs, do not hesitate to email me at getro89@gmail.com
 
 ## Heroku Site
-* https://peaceful-mesa-88787.herokuapp.com/
+* https://radiant-inlet-67337.herokuapp.com/
 
 ## Support and contact details
 
